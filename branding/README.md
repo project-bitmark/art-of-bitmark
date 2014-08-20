@@ -1,6 +1,6 @@
 ## Branding Preview
 
-The default logo, shaded, transparent background, no padding, and solid white inner.
+The default logo, shaded, transparent background, no padding, and *solid white inner*.
 
 ![Bitmark Standard Logo](https://raw.githubusercontent.com/project-bitmark/art-of-bitmark/master/branding/128/bitmark.png)
 
